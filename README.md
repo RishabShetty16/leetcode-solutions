@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1934-confirmation-rate](https://github.com/RishabShetty16/leetcode-solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
