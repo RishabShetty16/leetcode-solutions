@@ -1,27 +1,9 @@
-from typing import List
-
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        freq={}
+        for x in nums:
+            freq[x]=freq.get(x,0)+1
+            if freq[x]>len(nums)//2:
+                return x
+                
 
-        n = len(nums)
-
-        cnt = 0
-        
-        el = 0
-
-        for num in nums:
-            if cnt == 0:
-                cnt = 1
-                el = num
-            elif el == num:
-                cnt += 1
-            else:
-                cnt -= 1
-        
-
-        cnt1 = nums.count(el)
-
-        if cnt1 > (n // 2):
-            return el
-
-        return -1
