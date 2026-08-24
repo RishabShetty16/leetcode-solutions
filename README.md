@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0169-majority-element) |
+| [0454-4sum-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0454-4sum-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0169-majority-element) |
+| [0454-4sum-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0454-4sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
