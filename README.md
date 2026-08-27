@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0169-majority-element) |
+| [0409-longest-palindrome](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0454-4sum-ii) |
 ## Divide and Conquer
 |  |
@@ -65,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0409-longest-palindrome](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
