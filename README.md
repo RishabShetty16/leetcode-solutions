@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0454-4sum-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0454-4sum-ii) |
+| [2140-solving-questions-with-brainpower](https://github.com/RishabShetty16/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [2140-solving-questions-with-brainpower](https://github.com/RishabShetty16/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
