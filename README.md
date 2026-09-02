@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0454-4sum-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0733-flood-fill](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -22,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0733-flood-fill) |
 ## Graph Theory
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -102,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
