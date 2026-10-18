@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0454-4sum-ii) |
@@ -108,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0733-flood-fill) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RishabShetty16/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
